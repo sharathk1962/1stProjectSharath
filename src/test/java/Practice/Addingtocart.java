@@ -36,6 +36,7 @@ public class Addingtocart extends Base {
 		hp.search().sendKeys("Tshirts");
 		hp.submitsearchbutton().click();
 		log.info("succesfully searched tshirts");
+		log.info("changed some code - m working as y perosn");
 		Thread.sleep(6000);
 		Actions a =new Actions(driver);
 		//	a.sendKeys(Keys.SHIFT).sendKeys("thsirt sent in small letter").build().perform();
