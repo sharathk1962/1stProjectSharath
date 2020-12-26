@@ -47,6 +47,8 @@ public class Addingtocart extends Base {
 		a.moveToElement(womentab).build().perform();
 		log.debug("succesfully moved to Women");
 		Thread.sleep(6000);
+log.info("changed some code - m working as y perosn");
+log.info("changed some code - m working as y perosn");
 		WebElement summerdresses=driver.findElement(By.xpath("//a[@title='Summer Dresses']"));
 		a.moveToElement(summerdresses).click().build().perform();
 		log.error("navigates to women tab and searched for summer dresses");
