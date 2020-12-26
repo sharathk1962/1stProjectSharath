@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89350" started-at="2020-12-26T11:15:09 IST" finished-at="2020-12-26T11:16:38 IST">
+    <groups>
+    </groups>
+    <test name="Functional" duration-ms="89350" started-at="2020-12-26T11:15:09 IST" finished-at="2020-12-26T11:16:38 IST">
+      <class name="Practice.Addingtocart">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:Practice.Addingtocart@25be7b63]" name="launchbrowser" is-config="true" duration-ms="24317" started-at="2020-12-26T11:15:09 IST" finished-at="2020-12-26T11:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="additemstocart()[pri:0, instance:Practice.Addingtocart@25be7b63]" name="additemstocart" duration-ms="20915" started-at="2020-12-26T11:16:17 IST" finished-at="2020-12-26T11:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemstocart -->
+      </class> <!-- Practice.Addingtocart -->
+      <class name="Practice.Creatingaccount">
+        <test-method status="PASS" signature="accountsetup()[pri:0, instance:Practice.Creatingaccount@723ca036]" name="accountsetup" is-config="true" duration-ms="31814" started-at="2020-12-26T11:15:33 IST" finished-at="2020-12-26T11:16:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsetup -->
+        <test-method status="PASS" signature="fillacoountdetails()[pri:1, instance:Practice.Creatingaccount@723ca036]" name="fillacoountdetails" duration-ms="11920" started-at="2020-12-26T11:16:05 IST" finished-at="2020-12-26T11:16:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillacoountdetails -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Practice.Creatingaccount@723ca036]" name="teardown" is-config="true" duration-ms="293" started-at="2020-12-26T11:16:38 IST" finished-at="2020-12-26T11:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Practice.Creatingaccount -->
+    </test> <!-- Functional -->
+  </suite> <!-- Suite -->
+</testng-results>

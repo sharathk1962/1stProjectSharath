@@ -1,0 +1,54 @@
+01:17:12.442 [main] INFO  Practice.Creatingaccount - valid emai entered and please fill details
+01:17:16.136 [main] DEBUG Practice.Creatingaccount - Succesfully selected Firstname , Lastname and gender entered
+01:17:16.723 [main] INFO  Practice.Creatingaccount - date of birth entered
+01:17:20.103 [main] ERROR Practice.Creatingaccount - account details submitted
+01:23:16.049 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+01:23:22.221 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+01:23:33.981 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+01:23:35.657 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+23:41:15.843 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+23:41:21.966 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+23:41:32.386 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+23:41:34.014 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+23:44:52.404 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+23:44:58.571 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+23:45:08.844 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+23:45:10.450 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+23:49:35.282 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+23:49:41.410 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+23:49:52.738 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+23:49:54.325 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+23:58:01.841 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+23:58:07.994 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+23:58:17.329 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+23:58:18.883 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+00:01:33.365 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+00:01:39.462 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+00:01:53.159 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+00:01:54.820 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+00:10:19.119 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+00:10:25.279 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+00:10:34.617 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+00:10:36.332 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+00:19:56.664 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+00:20:02.792 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+00:20:12.256 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+00:20:14.045 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+01:51:15.562 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+01:51:26.732 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+01:51:32.948 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+01:53:24.687 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+01:53:30.790 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+01:53:40.368 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+01:53:41.943 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+01:59:40.478 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+01:59:46.702 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+01:59:56.737 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+01:59:58.188 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
+02:08:08.482 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+02:08:19.634 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+02:08:30.783 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+11:16:20.698 [main] INFO  Practice.Addingtocart - succesfully searched tshirts
+11:16:26.945 [main] DEBUG Practice.Addingtocart - succesfully moved to Women
+11:16:36.927 [main] ERROR Practice.Addingtocart - navigates to women tab and searched for summer dresses
+11:16:38.470 [main] INFO  Practice.Addingtocart - Succesfully added items to the cart
